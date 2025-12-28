@@ -1,0 +1,8 @@
+{
+  "name": " Helix AI",
+  "description": "A sophisticated, free AI companion with multimodal capabilities including real-time voice, text generation, and image creation, featuring a calm and professional aesthetic.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
